@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 public class IrctcServlet extends HttpServlet {
-	public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		
+	public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
+		//
 	}
 
 	public void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
