@@ -11,9 +11,9 @@ public class IrctcServlet extends HttpServlet {
 		//
 	}
 
-	public void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	public void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		doGet(request, response);
+		doGet(req, res);
 	}
 
 }
