@@ -1,5 +1,5 @@
 package org.irctc.service;
 
-public interface IRService {
+public class IRServiceImpl {
 
 }
